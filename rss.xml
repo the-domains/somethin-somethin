@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[somethin somethin]]></title>
         <description><![CDATA[somethin somethin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/somethin-somethin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 16:43:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 16:48:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/somethin-somethin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shoes plz]]></title>
+            <description><![CDATA[<article><h1>Shoes plz</h1><p>Jamie wants a new pair of shoes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0b5adb9049a1b139516facc7d97d4780c68f246.jpg"></article>]]></description>
+            <link>https://thegrid.ai/somethin-somethin/shoes-plz/index.html</link>
+            <guid isPermaLink="false">44da1ff3-c205-43f8-873b-fc354e6fb3f6</guid>
+            <pubDate>Sat, 02 Jan 2016 16:48:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jamie wants some new shoes]]></title>
             <description><![CDATA[<article><h1>Jamie wants some new shoes</h1><p>Something else goes here apparently..? Oooo purty flrrrz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3c6b27cfce780ed9be8089a9d700f5aa8ed8be4.jpg"></article>]]></description>
-            <link>undefinedjamie-wants-some-new-shoes/index.html</link>
+            <link>https://thegrid.ai/somethin-somethin/jamie-wants-some-new-shoes/index.html</link>
             <guid isPermaLink="false">ce19193c-2a91-4717-bd94-15e4db64f5b6</guid>
             <pubDate>Sat, 02 Jan 2016 16:43:19 GMT</pubDate>
         </item>
