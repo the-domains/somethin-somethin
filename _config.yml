@@ -1,7 +1,7 @@
 name: somethin somethin
 favicon: null
-layout_spectrum: 0.04288397799246013
-typography_spectrum: 0.5851263592485338
+layout_spectrum: 1
+typography_spectrum: 0.33
 cta:
   domain: null
   bucket: null
